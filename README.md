@@ -1,2 +1,3 @@
-# DIO_desafio1
-Criação de repositório como desafio de projeto.
+# Desafio 1 - DIO
+
+ - Criação de repositório como desafio de projeto.
